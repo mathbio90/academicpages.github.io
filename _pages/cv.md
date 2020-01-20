@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biomathematics, University of California, Los Angeles, 2021 (expected)
+* M.S. in Biomathematics, University of California, Los Angeles, 2016
+* B.S. (Honors) in Basic Biomedical Research, National Autonomous University of Mexico, 2015
 
-Work experience
+Mentoring
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019
+ * Mentored 2 undergraduate students as part of the Bruins in Genomics program. I designed and supervised their project, which involved using network approaches to study allosterism in human liver pyruvate kinase.
+ * Co-mentored a Sally Casanova undergraduate scholar. Her project involved measuring the temperature response of bacterial growth under different concentrations of antibiotics. I conceived of the research project, helped her design the experiments and make a poster at the end of the summer rotation.
 
 Publications
 ======
@@ -42,18 +27,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+ 

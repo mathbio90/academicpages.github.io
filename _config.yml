@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mauricio Cruz-Loya"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Biomathematics in the Van Savage lab at UCLA. My interests span mathematical modeling, systems biology and microbial ecology."
+  bio              : "Mathematical biologist focusing on microbiology, systems biology and microbial ecology; PhD candidate in Biomathematics at UCLA"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mauricio+cruz-loya"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

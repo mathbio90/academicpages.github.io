@@ -5,7 +5,7 @@ permalink: /publication/2018-08-31-stressor-interaction-networks-isme
 excerpt: 'Environmental factors like temperature, pressure, and pH partly shaped the evolution of life. As life progressed, new stressors (e.g., poisons and antibiotics) arose as part of an arms race among organisms. Here we ask if cells co-opted existing mechanisms to respond to new stressors, or whether new responses evolved de novo. We use a network-clustering approach based purely on phenotypic growth measurements and interactions among the effects of stressors on population growth. We apply this method to two types of stressors—temperature and antibiotics—to discover the extent to which their cellular responses overlap in Escherichia coli. Our clustering reveals that responses to low and high temperatures are clearly separated, and each is grouped with responses to antibiotics that have similar effects to cold or heat, respectively. As further support, we use a library of transcriptional fluorescent reporters to confirm heat-shock and cold-shock genes are induced by antibiotics. We also show strains evolved at high temperatures are more sensitive to antibiotics that mimic the effects of cold. Taken together, our results strongly suggest that temperature stress responses have been co-opted to deal with antibiotic stress.'
 date: 2018-08-31
 venue: 'The ISME Journal'
-paperurl: 'https://www.nature.com/articles/s41396-018-0241-7'
+paperurl: 'https://doi.org/10.1038/s41396-018-0241-7'
 citation: 'Cruz-Loya, M., Kang, T.M., Lozano, N.A. et al. (2019). &quot;Stressor interaction networks suggest antibiotic resistance co-opted from stress responses to temperature.&quot; <i>ISME J</i>. 13, 12–23.'
 ---
 
