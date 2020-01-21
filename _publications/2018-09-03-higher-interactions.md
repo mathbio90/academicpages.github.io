@@ -1,0 +1,14 @@
+---
+title: "Prevalence and patterns of higher-order drug interactions in <i>Escherichia coli</i>"
+collection: publications
+permalink: /publication/2018-09-03-higher-interactions
+excerpt: 'Interactions and emergent processes are essential for research on complex systems involving many components. Most studies focus solely on pairwise interactions and ignore higher-order interactions among three or more components. To gain deeper insights into higher-order interactions and complex environments, we study antibiotic combinations applied to pathogenic Escherichia coli and obtain unprecedented amounts of detailed data (251 two-drug combinations, 1512 three-drug combinations, 5670 four-drug combinations, and 13608 five-drug combinations). Directly opposite to previous assumptions and reports, we find higher-order interactions increase in frequency with the number of drugs in the bacteria’s environment. Specifically, as more drugs are added, we observe an elevated frequency of net synergy (effect greater than expected based on independent individual effects) and also increased instances of emergent antagonism (effect less than expected based on lower-order interaction effects). These findings have implications for the potential efficacy of drug combinations and are crucial for better navigating problems associated with the combinatorial complexity of multi-component systems.'
+date: 2018-09-03
+venue: 'npj Systems Biology and Applications'
+paperurl: 'https://doi.org/10.1038/s41540-018-0069-9'
+citation: 'Tekin, E., White, C., Kang, T.M. et al. Prevalence and patterns of higher-order drug interactions in Escherichia coli. npj Syst Biol Appl 4, 31 (2018) doi:10.1038/s41540-018-0069-9'
+---
+
+Interactions and emergent processes are essential for research on complex systems involving many components. Most studies focus solely on pairwise interactions and ignore higher-order interactions among three or more components. To gain deeper insights into higher-order interactions and complex environments, we study antibiotic combinations applied to pathogenic Escherichia coli and obtain unprecedented amounts of detailed data (251 two-drug combinations, 1512 three-drug combinations, 5670 four-drug combinations, and 13608 five-drug combinations). Directly opposite to previous assumptions and reports, we find higher-order interactions increase in frequency with the number of drugs in the bacteria’s environment. Specifically, as more drugs are added, we observe an elevated frequency of net synergy (effect greater than expected based on independent individual effects) and also increased instances of emergent antagonism (effect less than expected based on lower-order interaction effects). These findings have implications for the potential efficacy of drug combinations and are crucial for better navigating problems associated with the combinatorial complexity of multi-component systems.
+
+[Access paper here](https://rdcu.be/b0x9Z)
