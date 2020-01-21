@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomathematics, University of California, Los Angeles, 2021 (expected)
-* M.S. in Biomathematics, University of California, Los Angeles, 2016
-* B.S. (Honors) in Basic Biomedical Research, National Autonomous University of Mexico, 2015
+* Ph.D in [Biomathematics](https://compmed.ucla.edu/content/biomathematics-graduate-programs), [University of California, Los Angeles](http://www.ucla.edu/), 2021 (expected)
+* M.S. in [Biomathematics](https://compmed.ucla.edu/content/biomathematics-graduate-programs), [University of California, Los Angeles](http://www.ucla.edu/), 2016
+* B.S. (Honors) in [Basic Biomedical Research](https://www.biomedicas.unam.mx/oferta-educativa/licenciatura/), [National Autonomous University of Mexico](https://unam.mx/), 2015
 
 Mentoring
 ======
